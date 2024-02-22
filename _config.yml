@@ -5,9 +5,9 @@ header-img: "https://pic.imgdb.cn/item/65d09b529f345e8d03336410.jpg"
 email: 1820291307@aliyun.com
 description: "All is but a retracing and reconstruction."
 keyword: "兔子队列, Rabbit_TJ Blog, 汤键的博客, 1820291307, 汤键, Apache, Java, Spring"
-url: "https://CGITJ.github.io"          # my host, for absolute URL
+url: "https://WineTJ.github.io"          # my host, for absolute URL
 baseurl: ""
-github_repo: "https://github.com/CGITJ/CGITJ.github.io" # you code repository
+github_repo: "https://github.com/WineTJ/WineTJ.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -19,7 +19,7 @@ sidebar-avatar: https://pic.imgdb.cn/item/65d09b519f345e8d0333605e.jpg      # us
 # SNS settings
 RSS: false
 zhihu_username:     apachetj
-github_username:    CGITJ
+github_username:    WineTJ
 facebook_username:  2131289595721031
 jianshu_username:   weixin_59624686
 
@@ -106,7 +106,7 @@ friends: [
         title: "Spring",
         href: "https://spring.io/"
     },{
-        title: "Google",
-        href: "https://about.google/"
+        title: "个人博客-技术",
+        href: "https://icpc.cloud/"
     }
 ]
