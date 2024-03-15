@@ -5,7 +5,7 @@ header-img: "https://pic.imgdb.cn/item/65de9ce79f345e8d03144aa2.jpg"
 email: 1820291307@aliyun.com
 description: "All is but a retracing and reconstruction."
 keyword: "兔子队列, Rabbit_TJ Blog, 汤键的爱好博客, 1820291307, 汤键, 音乐, 啤酒, 葡萄酒"
-url: "https://CGITJ.github.io"          # my host, for absolute URL
+url: "https://ccpc.cloud"          # my host, for absolute URL
 baseurl: ""
 github_repo: "https://github.com/WineTJ/WineTJ.github.io" # you code repository
 
